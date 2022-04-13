@@ -11,4 +11,4 @@ The first prototypes are up and running, populated with ATSAMD51J18A-AU.
 
 
 ### Firmware
-The open source firmware for this project is here: TBD
+The open source firmware for this project is here: https://github.com/jgressmann/sllin
