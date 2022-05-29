@@ -4,6 +4,7 @@ The design goal of this PCB was to provide two isolated LIN operating as master 
 
 ## D5035-50
 ![USB_CAN-FD](/images/D5035_50.jpg?raw=true)
+
 The PCB D5035-50 is based on the ATSAMx51J microcontroller from Microchip.
 Any ATSAMx51J1x-Axx can be used, so every variant in TQFP-64, the bootloader and the firmware work on all three memory sizes.
 
@@ -11,6 +12,7 @@ The first prototypes are up and running, populated with ATSAMD51J18A-AU.
 
 ## D5035-51
 ![USB_CAN-FD](/images/D5035_51.jpg?raw=true)
+
 The PCB D5035-50 is based on the ATSAMDA1G16B-ABT microcontroller from Microchip.
 
 This PCB is slightly bigger than the previous PCBs with 69mm x 39mm instead of 61mm x 33mm.
